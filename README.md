@@ -4,4 +4,4 @@ Let's see how GitHub works.
 
 Message: V01 - version number 1 of training files.
 
-GitHub Training Repository - hello_world
+Message: V01 - Delete Branch.
